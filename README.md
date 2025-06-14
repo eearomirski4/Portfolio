@@ -1,4 +1,4 @@
-My name is Erik Earomirski and the following is a dataset using data from a fitness data tracker. 
+The following is a dataset using data from a fitness data tracker. 
 
 The two SQL codes vary in results searched for as one looks at the Heart Rate Average and Workout Type 
 and the other looks at steps and calorie count.
