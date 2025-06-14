@@ -1,1 +1,5 @@
+SELECT *
+FROM `Fitness_Tracker_Data`
+WHERE Steps > 7500 and Calories_Burned >= 250
+order by Steps Desc
 
