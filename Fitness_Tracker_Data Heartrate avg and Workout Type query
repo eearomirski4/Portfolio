@@ -1,1 +1,6 @@
+SELECT *
+FROM `Fitness_Tracker_Data`
+where Workout_Type = 'Cardio' and Heart_Rate_avg <= 75
+order by Heart_Rate_avg
+
 
